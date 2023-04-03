@@ -10,7 +10,7 @@ import warnings
 
 
 def logprior(*args, **kwargs):
-    return 1
+    return 0
 
 
 def main():
